@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-hi,hello
-=======
+
 class Wish{
+int a = 10;
+int b = 20
 }
->>>>>>> 2331fc34bbfb29eae76ba33143ca2aee1abcef0b
+
